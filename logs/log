@@ -1,0 +1,105 @@
+2017-11-22 18:32:53,008 WARNING  [127.0.0.1-gBeehz]   Some warning message
+2017-11-22 18:32:53,008 ERROR    [127.0.0.1-gBeehz]   Some error message
+2017-11-22 18:32:53,008 CRITICAL [127.0.0.1-gBeehz]   Big problem!
+2017-11-22 18:33:33,925 INFO     [MainThread]   ============
+2017-11-22 18:33:33,925 INFO     [MainThread]   Initializing
+2017-11-22 18:33:33,925 INFO     [MainThread]   ============
+2017-11-22 18:33:33,925 INFO     [MainThread]   python version: 3.5.1 (default, Aug 23 2016, 13:34:33) 
+[GCC 5.4.0 20160609]
+2017-11-22 18:33:33,925 INFO     [MainThread]   bottle version: 0.12.13
+2017-11-22 18:33:33,925 INFO     [MainThread]   ------------------------------------------
+2017-11-22 18:33:33,925 INFO     [MainThread]   autojson                       = True
+2017-11-22 18:33:33,925 INFO     [MainThread]   canister.debug                 = False
+2017-11-22 18:33:33,925 INFO     [MainThread]   canister.log_path              = ./logs/
+2017-11-22 18:33:33,925 INFO     [MainThread]   catchall                       = True
+2017-11-22 18:33:33,925 INFO     [MainThread]   canister.log_days              = 30
+2017-11-22 18:33:33,925 INFO     [MainThread]   canister.log_level             = INFO
+2017-11-22 18:33:33,925 INFO     [MainThread]   ------------------------------------------
+2017-11-22 18:33:33,925 INFO     [MainThread]   Session timeout is 3600 seconds. Checking for expired sessions every 60 seconds. 
+2017-11-22 18:33:36,832 INFO     [127.0.0.1-...]   GET http://localhost:9000/
+2017-11-22 18:33:36,833 INFO     [127.0.0.1-...]   Session created: ssRWmZylL6u9F1XWihqdWWAK
+2017-11-22 18:33:36,833 INFO     [127.0.0.1-ssRWmZ]   Some info message
+2017-11-22 18:33:36,833 WARNING  [127.0.0.1-ssRWmZ]   Some warning message
+2017-11-22 18:33:36,833 ERROR    [127.0.0.1-ssRWmZ]   Some error message
+2017-11-22 18:33:36,833 CRITICAL [127.0.0.1-ssRWmZ]   Big problem!
+2017-11-22 18:33:36,833 INFO     [127.0.0.1-ssRWmZ]   Response: 200 (0ms)
+2017-11-22 19:26:54,829 INFO     [127.0.0.1-...]   GET http://localhost:9000/
+2017-11-22 19:26:54,829 INFO     [127.0.0.1-...]   Session found: ssRWmZylL6u9F1XWihqdWWAK
+2017-11-22 19:26:54,829 INFO     [127.0.0.1-ssRWmZ]   Some info message
+2017-11-22 19:26:54,830 WARNING  [127.0.0.1-ssRWmZ]   Some warning message
+2017-11-22 19:26:54,830 ERROR    [127.0.0.1-ssRWmZ]   Some error message
+2017-11-22 19:26:54,830 CRITICAL [127.0.0.1-ssRWmZ]   Big problem!
+2017-11-22 19:26:54,830 INFO     [127.0.0.1-ssRWmZ]   Response: 200 (0ms)
+2017-11-22 19:27:10,662 INFO     [127.0.0.1-...]   GET http://localhost:9000/
+2017-11-22 19:27:10,663 INFO     [127.0.0.1-...]   Session found: ssRWmZylL6u9F1XWihqdWWAK
+2017-11-22 19:27:10,663 INFO     [127.0.0.1-ssRWmZ]   Some info message
+2017-11-22 19:27:10,663 WARNING  [127.0.0.1-ssRWmZ]   Some warning message
+2017-11-22 19:27:10,663 ERROR    [127.0.0.1-ssRWmZ]   Some error message
+2017-11-22 19:27:10,663 CRITICAL [127.0.0.1-ssRWmZ]   Big problem!
+2017-11-22 19:27:10,663 INFO     [127.0.0.1-ssRWmZ]   Response: 200 (0ms)
+2017-11-22 19:27:37,935 INFO     [MainThread]   ============
+2017-11-22 19:27:37,935 INFO     [MainThread]   Initializing
+2017-11-22 19:27:37,935 INFO     [MainThread]   ============
+2017-11-22 19:27:37,935 INFO     [MainThread]   python version: 3.5.1 (default, Aug 23 2016, 13:34:33) 
+[GCC 5.4.0 20160609]
+2017-11-22 19:27:37,935 INFO     [MainThread]   bottle version: 0.12.13
+2017-11-22 19:27:37,935 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:27:37,935 INFO     [MainThread]   catchall                       = True
+2017-11-22 19:27:37,935 INFO     [MainThread]   canister.log_level             = INFO
+2017-11-22 19:27:37,935 INFO     [MainThread]   canister.log_days              = 30
+2017-11-22 19:27:37,935 INFO     [MainThread]   canister.debug                 = False
+2017-11-22 19:27:37,935 INFO     [MainThread]   autojson                       = True
+2017-11-22 19:27:37,935 INFO     [MainThread]   canister.log_path              = ./logs/
+2017-11-22 19:27:37,935 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:27:37,935 INFO     [MainThread]   Session timeout is 3600 seconds. Checking for expired sessions every 60 seconds. 
+2017-11-22 19:27:55,616 INFO     [MainThread]   ============
+2017-11-22 19:27:55,616 INFO     [MainThread]   Initializing
+2017-11-22 19:27:55,616 INFO     [MainThread]   ============
+2017-11-22 19:27:55,616 INFO     [MainThread]   python version: 3.5.1 (default, Aug 23 2016, 13:34:33) 
+[GCC 5.4.0 20160609]
+2017-11-22 19:27:55,616 INFO     [MainThread]   bottle version: 0.12.13
+2017-11-22 19:27:55,616 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:27:55,616 INFO     [MainThread]   canister.log_days              = 30
+2017-11-22 19:27:55,616 INFO     [MainThread]   canister.debug                 = False
+2017-11-22 19:27:55,616 INFO     [MainThread]   canister.log_path              = ./logs/
+2017-11-22 19:27:55,616 INFO     [MainThread]   catchall                       = True
+2017-11-22 19:27:55,616 INFO     [MainThread]   autojson                       = True
+2017-11-22 19:27:55,616 INFO     [MainThread]   canister.log_level             = INFO
+2017-11-22 19:27:55,616 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:27:55,616 INFO     [MainThread]   Session timeout is 3600 seconds. Checking for expired sessions every 60 seconds. 
+2017-11-22 19:28:13,006 INFO     [MainThread]   ============
+2017-11-22 19:28:13,007 INFO     [MainThread]   Initializing
+2017-11-22 19:28:13,007 INFO     [MainThread]   ============
+2017-11-22 19:28:13,007 INFO     [MainThread]   python version: 3.5.1 (default, Aug 23 2016, 13:34:33) 
+[GCC 5.4.0 20160609]
+2017-11-22 19:28:13,007 INFO     [MainThread]   bottle version: 0.12.13
+2017-11-22 19:28:13,007 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:28:13,007 INFO     [MainThread]   catchall                       = True
+2017-11-22 19:28:13,007 INFO     [MainThread]   canister.debug                 = False
+2017-11-22 19:28:13,007 INFO     [MainThread]   canister.log_days              = 30
+2017-11-22 19:28:13,007 INFO     [MainThread]   canister.log_level             = INFO
+2017-11-22 19:28:13,007 INFO     [MainThread]   canister.log_path              = ./logs/
+2017-11-22 19:28:13,007 INFO     [MainThread]   autojson                       = True
+2017-11-22 19:28:13,007 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:28:13,007 INFO     [MainThread]   Session timeout is 3600 seconds. Checking for expired sessions every 60 seconds. 
+2017-11-22 19:28:15,484 INFO     [127.0.0.1-...]   GET http://localhost:9000/
+2017-11-22 19:28:15,484 INFO     [127.0.0.1-...]   Session created: qSFnXvzyhemeTPtDwJSS3yr/
+2017-11-22 19:28:15,485 INFO     [127.0.0.1-qSFnXv]   Some info message
+2017-11-22 19:28:15,485 WARNING  [127.0.0.1-qSFnXv]   Some warning message
+2017-11-22 19:28:15,485 ERROR    [127.0.0.1-qSFnXv]   Some error message
+2017-11-22 19:28:15,485 CRITICAL [127.0.0.1-qSFnXv]   Big problem!
+2017-11-22 19:28:15,485 INFO     [127.0.0.1-qSFnXv]   Response: 200 (1ms)
+2017-11-22 19:38:08,241 INFO     [MainThread]   ============
+2017-11-22 19:38:08,242 INFO     [MainThread]   Initializing
+2017-11-22 19:38:08,242 INFO     [MainThread]   ============
+2017-11-22 19:38:08,242 INFO     [MainThread]   python version: 3.5.1 (default, Aug 23 2016, 13:34:33) 
+[GCC 5.4.0 20160609]
+2017-11-22 19:38:08,242 INFO     [MainThread]   bottle version: 0.12.13
+2017-11-22 19:38:08,242 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:38:08,242 INFO     [MainThread]   autojson                       = True
+2017-11-22 19:38:08,242 INFO     [MainThread]   canister.log_path              = ./logs/
+2017-11-22 19:38:08,242 INFO     [MainThread]   canister.log_level             = INFO
+2017-11-22 19:38:08,242 INFO     [MainThread]   canister.log_days              = 30
+2017-11-22 19:38:08,242 INFO     [MainThread]   catchall                       = True
+2017-11-22 19:38:08,242 INFO     [MainThread]   ------------------------------------------
+2017-11-22 19:38:08,242 INFO     [MainThread]   Session timeout is 3600 seconds. Checking for expired sessions every 60 seconds. 
